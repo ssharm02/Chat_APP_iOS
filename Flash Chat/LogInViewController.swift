@@ -34,6 +34,8 @@ class LogInViewController: UIViewController {
             passwordTextfield.text!, completion: {(user, error) in
                 if error != nil {
                     print(error!)
+                    SVProgressHUD.dismiss()
+                    
                 }
                 else {
                     print("login successful")
