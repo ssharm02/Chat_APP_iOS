@@ -2,4 +2,5 @@
 # Chat_App_iOS
 Chat app for iOS uses Google Firebase to store user accounts & messages (With authentication)
 
-![alt text](https://i.imgur.com/KWWjvJe.gif)
+
+<img src="2gnJrpo.gif?raw=true" width="200px">
