@@ -3,4 +3,4 @@
 Chat app for iOS uses Google Firebase to store user accounts & messages (With authentication)
 
 
-<img src="2gnJrpo.gif?raw=true" width="600px">
+<img src="WhatsApp.gif?raw=true" width="600px">
